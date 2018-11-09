@@ -1,0 +1,10 @@
+U-efren_cayo	0
+U-mauricio	1
+U-rodrigo_cerda	2
+U-sebastian_ormeno	3
+U-luis_aros	4
+U-juan_barrios	5
+U-jose_garrido	6
+U-victor_enero	7
+U-luis_zapata	8
+U-camila_alvarez	9
